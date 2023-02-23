@@ -10,22 +10,4 @@ namespace CleanArchitecture.Tools.Marker
     {
 
     }
-
-    public class ApplicationService : IApplicationService
-    {
-
-    }
-
-    public class DomainService 
-    {
-
-    }
-
-    /// <summary>
-    /// ACL
-    /// </summary>
-    public interface IAggregateRoot
-    {
-
-    }
 }
