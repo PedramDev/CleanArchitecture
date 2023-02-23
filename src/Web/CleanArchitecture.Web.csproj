@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Application\CleanArchitecture.Application\CleanArchitecture.Application.csproj" />
+    <ProjectReference Include="..\Tools\CleanArchitecture.Common.ApiHelper\CleanArchitecture.Common.ApiHelper.csproj" />
   </ItemGroup>
 
 </Project>
